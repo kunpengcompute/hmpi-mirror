@@ -18,7 +18,7 @@
 #
 
 coll_tuned_config_files = \
-                coll_tuned_defualt_decision.conf
+                coll_tuned_default_decision.conf
 
 EXTRA_DIST = $(coll_tuned_config_files)
 
